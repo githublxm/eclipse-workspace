@@ -1,0 +1,2 @@
+module how2j {
+}
